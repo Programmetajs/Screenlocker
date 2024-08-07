@@ -1,1 +1,15 @@
 D:\Windowslocker\Windowslocker\bin\Debug\Windowslocker.exe.config
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\bin\Debug\Windowslocker.exe.config
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\bin\Debug\Windowslocker.exe
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\bin\Debug\Windowslocker.pdb
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\obj\Debug\Windowslocker.csproj.AssemblyReference.cache
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\obj\Debug\Windowslocker.Properties.Resources.resources
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\obj\Debug\Windowslocker.csproj.GenerateResource.cache
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\obj\Debug\Windowslocker.csproj.CoreCompileInputs.cache
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\obj\Debug\Windowslocker.exe
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\obj\Debug\Windowslocker.pdb
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\bin\Debug\MetroFramework.Design.dll
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\bin\Debug\MetroFramework.dll
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\obj\Debug\Windowsl.9C8F87C7.Up2Date
+C:\Users\GabePC\Documents\GitHub\Screenlocker\Windowslocker\Windowslocker\obj\Debug\Windowslocker.Form1.resources
